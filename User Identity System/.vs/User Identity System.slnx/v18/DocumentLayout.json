@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\User Identity System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85BDF18D-B832-BE8E-744A-DA286E11268F}|User Identity System\\User Identity System.csproj|c:\\users\\schne\\downloads\\progrmacion\\lenguaje programacion c#\\user identity system\\user identity system\\user identity system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BDF18D-B832-BE8E-744A-DA286E11268F}|User Identity System\\User Identity System.csproj|solutionrelative:user identity system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BDF18D-B832-BE8E-744A-DA286E11268F}|User Identity System\\User Identity System.csproj|c:\\users\\schne\\downloads\\progrmacion\\lenguaje programacion c#\\user identity system\\user identity system\\user identity system\\user identity system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85BDF18D-B832-BE8E-744A-DA286E11268F}|User Identity System\\User Identity System.csproj|solutionrelative:user identity system\\user identity system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User Identity System.csproj",
+              "DocumentMoniker": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\User Identity System\\User Identity System\\User Identity System.csproj",
+              "RelativeDocumentMoniker": "User Identity System\\User Identity System.csproj",
+              "ToolTip": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\User Identity System\\User Identity System\\User Identity System.csproj",
+              "RelativeToolTip": "User Identity System\\User Identity System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-02T16:18:27.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\User Identity System\\User Identity System\\Program.cs",
+              "RelativeDocumentMoniker": "User Identity System\\Program.cs",
+              "ToolTip": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\User Identity System\\User Identity System\\Program.cs",
+              "RelativeToolTip": "User Identity System\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:12:24.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
